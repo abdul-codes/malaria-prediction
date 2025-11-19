@@ -30,13 +30,13 @@ Selected XGBoost as final model.
 
 ## Files
 
-- train.py - trains the model
+- train2.py - trains the model
 - predict.py - tests predictions
-- serve.py - runs the web service
+- server.py - runs the web service
 - model_xgb.bin - saved model
 - requirements.txt - Python packages needed
 - Dockerfile - for running in a container
-- notebook.ipynb - data exploration and analysis
+- malaria.ipynb - data exploration and analysis
 
 ## How to Use
 
